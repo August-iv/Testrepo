@@ -28,3 +28,5 @@ else:
     print("anyway thanks for taking time to entertain my BS. I love you but only if you agree Ronaldo is the GOAT😏.")
     print()
     print("'BOMBASTIC SIDE EYE'👀")
+
+print()
